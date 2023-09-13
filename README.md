@@ -12,4 +12,4 @@ Whether it's coding, data analysis, or designing beautiful front-end apps, I'm a
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=idrislaode&icon=0&color=0)](https://github.com/Waizsec)
+[![](https://visitcount.itsvg.in/api?id=Waizsec&icon=0&color=0)](https://github.com/Waizsec)
