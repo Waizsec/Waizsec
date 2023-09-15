@@ -2,6 +2,8 @@
 Wisnu here! 🌴 I'm not just your ordinary guy; I'm a Bali-based tech enthusiast with a passion that goes beyond the limits of technology. I've been diving deep into the world of software engineering for over 6 years, and I'm also on an exciting journey to master the art of data science. 
 <br>
 Whether it's coding, data analysis, or designing beautiful front-end apps, I'm all in. If you have something interesting to discuss or collaborate on, feel free to hit me up!
+<br>
+And also if you don't mind check my portofolio website at https://wearewaiz.com 🌝
 
 
 ## Follow Me!
